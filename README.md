@@ -29,7 +29,7 @@ Clone this repository and open the `index.html` file in your browser:
 git clone https://github.com/username/repository-name.git
 cd repository-name
 open index.html
-
+```
 ## Created by [Azanian Eagle](https://eagle-i.mngqibisafoundation.org/) 🦅
 
 
