@@ -1,0 +1,66 @@
+/* Background */
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: 'Impact', sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Container */
+.container {
+    margin-top: 50px;
+}
+
+/* Title */
+h1 {
+    font-size: 60px;
+    color: #ff0000;
+    text-shadow: 3px 3px 0px #000000, 6px 6px 0px #ffffff;
+}
+
+/* Paragraph */
+p {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+/* Input Fields */
+.input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 18px;
+    background-color: #333333;
+    color: #ffffff;
+    border: 3px solid #ff0000;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+
+/* Button */
+.macho-button {
+    padding: 15px 30px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #000000;
+    background-color: #ff0000;
+    border: 5px solid #ffffff;
+    border-radius: 10px;
+    cursor: pointer;
+    text-shadow: 2px 2px 0px #ffffff;
+}
+
+.macho-button:hover {
+    background-color: #ff5500;
+}
+
+/* Result */
+.macho-result {
+    margin-top: 30px;
+    font-size: 50px;
+    color: #00ff00;
+    font-weight: 900;
+    text-shadow: 4px 4px 0px #000000, 8px 8px 0px #ffffff;
+    text-transform: uppercase;
+}
