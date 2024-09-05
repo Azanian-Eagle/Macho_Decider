@@ -26,7 +26,7 @@ Check out the **MACHO DECIDER** in action [here](https://azanian-eagle.github.io
 Clone this repository and open the `index.html` file in your browser:
 
 ```bash
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/Azanian-Eagle/Macho_Decider.git
 cd repository-name
 open index.html
 ```
