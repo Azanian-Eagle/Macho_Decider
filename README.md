@@ -27,7 +27,7 @@ Clone this repository and open the `index.html` file in your browser:
 
 ```bash
 git clone https://github.com/Azanian-Eagle/Macho_Decider.git
-cd repository-name
+cd Macho_Decider
 open index.html
 ```
 ## Created by [Azanian Eagle](https://eagle-i.mngqibisafoundation.org/) 🦅
