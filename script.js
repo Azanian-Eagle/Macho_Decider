@@ -47,6 +47,6 @@ document.getElementById("decide-button").addEventListener("click", () => {
         const selectedOption = options[Math.floor(Math.random() * options.length)];
         document.getElementById("result").textContent = `Decision: ${selectedOption}`;
     } else {
-        document.getElementById("result").textContent = "Please enter at least two options.";
+        document.getElementById("result").textContent = "C'MON, DON'T BE A P@ES MAN! ENTER TWO OR MORE OPTIONS!";
     }
 });
