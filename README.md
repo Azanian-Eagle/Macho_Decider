@@ -84,6 +84,6 @@ To customize the app further, you can:
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request with any improvements.
 
 ### Contact
-For questions, comments or suggestions, please contact our head @rmngqibisa or [email](mailto:azanian-eagle@mngqibisafoundation.org) our team.
+For questions, comments or suggestions, please contact our head [@rmngqibisa](https://github.com/rmngqibisa) or [email](mailto:azanian-eagle@mngqibisafoundation.org) our team.
 
 ## Created by [Azanian Eagle](https://eagle-i.mngqibisafoundation.org/) 🦅
