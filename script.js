@@ -4,10 +4,10 @@ const maxOptions = 10;
 // Start with two options (initial input fields in HTML)
 let currentOptions = 2;
 
-// Event listener for "Add More" button to dynamically add more options
+// Add More button to dynamically add more options
 document.getElementById("add-more-button").addEventListener("click", () => {
     if (currentOptions < maxOptions) {
-        currentOptions++; // Increase option count
+        currentOptions++;
 
         // Create a new input element for the additional option
         const newOption = document.createElement("input");
@@ -26,12 +26,16 @@ document.getElementById("add-more-button").addEventListener("click", () => {
     }
 });
 
-// Event listener for the "DECIDE!" button to make a decision
+// Decide button to make a decision
 document.getElementById("decide-button").addEventListener("click", () => {
+    console.log("Decide button clicked"); // Debugging log
+
     // Collect all entered options
     const options = [];
     for (let i = 1; i <= currentOptions; i++) {
         const optionValue = document.getElementById(`option${i}`).value.trim();
+        console.log(`Option ${i}: ${optionValue}`); // Debugging log
+
         if (optionValue) {
             options.push(optionValue);
         }
