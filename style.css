@@ -25,6 +25,13 @@ p {
     margin-bottom: 20px;
 }
 
+/* Footer */
+.footer-style {
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
 /* Input Fields */
 .input {
     width: 80%;
